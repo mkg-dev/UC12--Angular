@@ -1,0 +1,46 @@
+{
+  "vagas": [
+    {
+      "id": 2,
+      "nome": "Desenvolvedor Front Pl",
+      "foto": "rc.png",
+      "descricao": "Trabalhar com React",
+      "salario": 3300
+    },
+    {
+      "id": 3,
+      "nome": "Desenvolvedor Back Jr",
+      "foto": "sp.png",
+      "descricao": "Trabalhar com Spring Boot",
+      "salario": 5000
+    },
+    {
+      "id": "6",
+      "nome": "swqs",
+      "foto": "sp.png",
+      "descricao": "dewdwe",
+      "salario": "032"
+    },
+    {
+      "id": "8",
+      "nome": "Teste Angular",
+      "foto": "ng.png",
+      "descricao": "Vaga teste 4",
+      "salario": "43"
+    },
+    {
+      "id": "21",
+      "nome": "sqs",
+      "foto": "sp.png",
+      "descricao": "sws",
+      "salario": "0222"
+    },
+    {
+      "id": "12",
+      "nome": "sad",
+      "foto": "ng.png",
+      "descricao": "dwqd",
+      "salario": "032"
+    }
+  ]
+}
